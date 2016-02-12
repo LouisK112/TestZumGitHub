@@ -18,8 +18,9 @@ public class NewsletterRegistration implements Registration {
 
 	NewsletterDatabase NewsDatenbank;
 	
+	
 	/**
-	 * Konstruktor
+	 * Konstruktor für die NewsletterRegistration
 	 */
 	public NewsletterRegistration() {
 		NewsDatenbank = new NewsletterDatabase();
